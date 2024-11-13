@@ -1,0 +1,49 @@
+body{
+    margin: 10px;
+    font-family: helvetica;
+    font-size: 20px;
+}
+
+div#header{
+    color: darkcyan;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+div#header h3{
+    color: blue;
+}
+
+div.substrate{
+    background-image: url("coco_coir_bg.png");
+}
+
+div.substrate{
+    color: honeydew;
+}
+
+div.section, div.substrate{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: blue;
+}
+
+a:hover{
+    background-color: crimson;
+}
+
+a:active{
+    background-color: black;
+}
